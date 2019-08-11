@@ -1,0 +1,5 @@
+name: Sumo
+main: net.devras.duel.sumo.Sumo
+version: 1.0.0
+description: Simple
+author: kemq_
